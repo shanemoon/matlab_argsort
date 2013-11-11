@@ -2,8 +2,11 @@ Argsort for MATLAB
 ==============
 
 Author      : Seungwhan (Shane) Moon
+
 Description : Return the indices of the sorted vector
+
 Last Update : November 10, 2013
+
 Filename	: argsort.m
 
 Input
