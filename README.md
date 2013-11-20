@@ -1,9 +1,11 @@
-Argsort for MATLAB
+Argsort for MATLAB / Octave
 ==============
 
 Author      : Seungwhan (Shane) Moon
 
-Description : Return the indices of the sorted vector
+Description : Return the indices of the sorted vector. This is equivalent to the argsort function that NumPy supports.
+
+MATLAB / Octave do not support argsort as a native function (http://mathesaurus.sourceforge.net/matlab-numpy.html)
 
 Last Update : November 10, 2013
 
